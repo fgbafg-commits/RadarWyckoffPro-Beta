@@ -1,0 +1,19 @@
+RADAR WYCKOFF PRO V5 - CONEXION SIMPLE
+
+PRIMERA VEZ:
+1. Extrae el ZIP completo a una carpeta.
+2. Cierra cualquier ventana negra de Radar Web que haya quedado abierta.
+3. Haz doble clic en CONECTAR_LISTAS.bat.
+4. En la ventana que aparece, elige la carpeta ORIGINAL "Listas Radar" de tu programa.
+   Debe contener cartera_europa.json, cartera_usa.json, vigilancia_europa.json y vigilancia_usa.json.
+5. Pulsa Aceptar. Se guarda la ubicacion y se abre Radar Web.
+
+SIGUIENTES VECES:
+Haz doble clic en INICIAR_RADAR_WEB.bat. Ya no hace falta elegir las listas.
+
+Las listas se LEEN desde la carpeta original. No se copian ni se modifican.
+Para cambiar de carpeta original, vuelve a ejecutar CONECTAR_LISTAS.bat.
+Si el navegador no abre automaticamente, usa http://127.0.0.1:5050
+
+NOTA: Esta es una web LOCAL para Windows, no un sitio publicado en Internet.
+Un escaneo de muchos activos puede tardar bastante. Se limita a 200 por mercado.
